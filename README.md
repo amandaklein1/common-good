@@ -184,7 +184,7 @@ We implemented Git Feature Branch Workflow. All pull requests in Github were rev
 
 ## Repo
 
-`git clone https://github.com/hratx-blue-ocean/adriatic-common-ground`
+`git clone https://github.com/hratx-blue-ocean/common-good.git`
 
 ## Install
 
