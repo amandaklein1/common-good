@@ -34,7 +34,7 @@
     </li>
     <li><a href="#home-page---amanda-klein">Home Page</a></li>
     <li><a href="#profile-page---eric-cruz">Profile Page</a></li>
-    <li><a href="#donations-and-charities-lists---pongsak-pattamasaevi">Listings and Search Feature</a></li>
+    <li><a href="#listings-and-search---pongsak-pattamasaevi">Listings and Search Feature</a></li>
     <li><a href="#details-page---dylan-reid">Details Page</a></li>
     <li><a href="#chat---christian-peterson">Chat</a></li>
     <li>
@@ -72,7 +72,7 @@ The objective of the Common Good website was to make a site that allowed charity
 
 ![](https://media.giphy.com/media/sfsgh7c7HZuJyUmQhS/giphy.gif)
 
-## Profile Page -- [Eric Cruz](https://github.com/ecruz4)
+## Profile Page --[Eric Cruz](https://github.com/ecruz4)
 
 **Features:**
 
@@ -83,7 +83,7 @@ The objective of the Common Good website was to make a site that allowed charity
 
 ![](https://media.giphy.com/media/G3BnuZbinL4YfMFMsc/giphy.gif)
 
-## Listings and Search -- [Pongsak Pattamasaevi](https://github.com/ppattamasaevi)
+## Listings and Search --[Pongsak Pattamasaevi](https://github.com/ppattamasaevi)
 
 **Features:**
 
@@ -92,7 +92,7 @@ The objective of the Common Good website was to make a site that allowed charity
 
 ![](https://media.giphy.com/media/vLcXs7vLscfDvj68Iu/giphy.gif)
 
-## Details Page -- [Dylan Reid](https://github.com/dylanreid7)
+## Details Page --[Dylan Reid](https://github.com/dylanreid7)
 
 **Features:**
 
@@ -103,7 +103,7 @@ The objective of the Common Good website was to make a site that allowed charity
 
 ![](https://media.giphy.com/media/35Ymi4CExwpON31OV6/giphy.gif)
 
-## Chat -- [Christian Peterson](https://github.com/ChrisRPeterson)
+## Chat --[Christian Peterson](https://github.com/ChrisRPeterson)
 
 **Features:**
 
@@ -161,7 +161,7 @@ The objective of the Common Good website was to make a site that allowed charity
     <tr>
       <th>Deployment</th>
       <td>
-        <img alt="Docker" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+        <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
         <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
       </td>
     </tr>
